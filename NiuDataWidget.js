@@ -9,11 +9,11 @@
 //
 
 {
-	var show_last_track_map = true;
+	var show_last_track_map = false;
 	var show_map = false;
-	var username = "";
-	var password = "";
-	var sn = ""
+	var username = "15911165911";
+	var password = "d41d8cd98f00b204e9800998ecf8427e";
+	var sn = "U1PL3S5E5381X6C7"
 	var debug_size = "medium"; // which size should the widget try to run as when run through Scriptable. (small, medium, large)
 	var is_dark_mode_working = true;
 }
